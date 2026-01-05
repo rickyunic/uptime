@@ -37,7 +37,7 @@ sites:
     url: https://hipnoseclinicarf.com/
 status-website:
   cname: status.rcw.pt
-  baseUrl: /
+  baseUrl: ""
   logoUrl: https://rcw.pt/wp-content/uploads/2025/03/rcw_logo_2025_final-web.png
   name: RCW Digital Agency Status
   navbar:
