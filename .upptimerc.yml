@@ -1,29 +1,51 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rickyunic
+repo: uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: VIVEIROS.EU
+    url: https://viveiros.eu
+  - name: RICKYUNIC.COM
+    url: https://rickyunic.com
+  - name: RCW.PT
+    url: https://rcw.pt
+  - name: IAFARMA.COM
+    url: https://iafarma.com
+  - name: HOST - RCW - SRV EU
+    url: 89.117.169.110
     port: 80
     check: "tcp-ping"
-    ipv6: true
+   - name: HOST - IAFARMA - GATOR
+    url: 50.87.144.100
+    port: 80
+    check: "tcp-ping"
+  - name: HOST - FICC - PTISP
+    url: 94.46.176.170
+    port: 80
+    check: "tcp-ping"
+  - name: HOMEPETTING.COM
+    url: https://homepetting.com
+  - name: GIRALIVING.COM
+    url: https://giraliving.com/
+    - name: FICC.ORG
+    url: http://ficc.org
+    - name: FCMP
+    url: https://www.fcmportugal.com/
+    - name: Clube Campismo Lisboa
+    url: https://clubecampismolisboa.pt/
+    - name: Camping Card International
+    url: https://www.campingcardinternational.com/
+    - name: Hipnose Clínica Rita Fonseca
+    url: https://hipnoseclinicarf.com/
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  cname: status.rcw.pr
+  # baseUrl: /uptime
+  logoUrl: https://rcw.pt/wp-content/uploads/2025/03/rcw_logo_2025_final-web.png
+  name: RCW Digital Agency Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
