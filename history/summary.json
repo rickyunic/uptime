@@ -166,19 +166,19 @@
     "url": "http://ficc.org",
     "icon": "https://icons.duckduckgo.com/ip3/ficc.org.ico",
     "slug": "ficc-org",
-    "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
-    "time": 1968,
-    "timeDay": 1968,
-    "timeWeek": 1968,
-    "timeMonth": 1968,
-    "timeYear": 1968,
+    "status": "up",
+    "uptime": "83.65%",
+    "uptimeDay": "83.65%",
+    "uptimeWeek": "83.65%",
+    "uptimeMonth": "83.65%",
+    "uptimeYear": "83.65%",
+    "time": 1960,
+    "timeDay": 1960,
+    "timeWeek": 1960,
+    "timeMonth": 1960,
+    "timeYear": 1960,
     "dailyMinutesDown": {
-      "2026-01-05": 0
+      "2026-01-05": 6
     }
   },
   {
